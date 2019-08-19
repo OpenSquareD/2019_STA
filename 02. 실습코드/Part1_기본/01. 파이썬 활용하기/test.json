@@ -1,0 +1,10 @@
+{
+	"apple": {
+		"price": 1000,
+		"origin": "korea"
+	},
+	"banana": {
+		"price": 1200,
+		"origin": "china"
+	}
+}
